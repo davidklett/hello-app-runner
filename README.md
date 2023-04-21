@@ -7,7 +7,7 @@ You can use this repo to automatically build and deploy or use pre-built images 
 
 You can read about AWS App Runner in the [launch blog](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 
-## Deploy to App Runner CICD test
+## Deploy to App Runner beta test
 
 If you want to deploy this container make sure you have the latest release of the [`awscli`](https://github.com/aws/aws-cli) and run
 
